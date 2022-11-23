@@ -1,0 +1,31 @@
+{
+  "coord": { "lon": -104.9847, "lat": 39.7392 },
+  "weather": [
+    { "id": 500, "main": "Rain", "description": "light rain", "icon": "10d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 275.05,
+    "feels_like": 272.21,
+    "temp_min": 273.89,
+    "temp_max": 276.54,
+    "pressure": 1013,
+    "humidity": 89
+  },
+  "visibility": 64,
+  "wind": { "speed": 2.68, "deg": 333, "gust": 6.26 },
+  "rain": { "1h": 0.87 },
+  "clouds": { "all": 100 },
+  "dt": 1666880992,
+  "sys": {
+    "type": 2,
+    "id": 2004334,
+    "country": "US",
+    "sunrise": 1666876976,
+    "sunset": 1666915465
+  },
+  "timezone": -21600,
+  "id": 5419384,
+  "name": "Denver",
+  "cod": 200
+}
